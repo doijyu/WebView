@@ -1,2 +1,4 @@
 # WebView
-android: activity &lt;-> html data transfer
+for Android
+
+Activityとhtml間でのデータの受渡しのサンプル
